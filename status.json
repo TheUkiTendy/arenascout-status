@@ -1,8 +1,8 @@
 {
-    "disabled": true,
+    "disabled": false,
     "minVersion": "0.1.0",
     "latestVersion": "0.1.0",
     "downloadUrl": "https://github.com/TheUkiTendy/arenascout-status/releases/latest",
-    "message": "fun stuff",
+    "message": null",
     "cardData": null
 }
