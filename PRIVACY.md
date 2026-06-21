@@ -1,9 +1,5 @@
 # ArenaScout — Privacy Policy
 
-> Good-faith, AI-drafted — **not legal advice**; have a lawyer review before relying on it. This
-> mirrors the policy shown inside the app (under *Privacy*), which is the authoritative copy and is
-> kept truthful against the code.
-
 ArenaScout is built to keep your data on your own machine. This policy explains what stays local, the
 few things that can leave your device, why, and the choices you have.
 
