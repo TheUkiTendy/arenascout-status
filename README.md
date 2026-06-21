@@ -78,5 +78,5 @@ an issue on this repository. Please don't include sensitive personal details in 
 
 ---
 
-<sub>This repo also serves `status.json` — the app's update/service-notice manifest and kill
-switch.</sub>
+<sub>This repo also hosts `status.json`, the small public manifest the app reads for update and
+service notices.</sub>
